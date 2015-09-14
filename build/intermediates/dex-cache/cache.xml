@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/github-projects/AndroidMVP/business/build/libs/business.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8ff0b1fb4b72c76079acb481896e5694c8da5d4">
+        <dex dex="/github-projects/AndroidMVP/app/build/intermediates/pre-dexed/debug/business-980dacc9664f95ef6f2ee82363404b7441794d30.jar" />
+    </item>
+
+</items>
